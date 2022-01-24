@@ -1,0 +1,24 @@
+.tab_local{width:100%}
+
+.tab_area_pesquisa{width:100%;margin-bottom:5px}
+
+.tab_area_pesquisa .area_termo_pesquisa{float:left;margin-left:1%;width:85%;}
+
+.tab_area_pesquisa .area_bt_pesquisar{float:left;width:13%;}
+
+.tab_area_pesquisa .tab_termos{width:98%;height:25px}
+
+.tab_area_pesquisa .tab_bt{float:left;width:98%}
+
+
+
+
+.tab_cabecalho{width:100%}
+
+.tab_cabecalho th{background:#000;color:#FFF;font-weight:bold}
+
+.area_conteudo_tab{width:100%}
+
+.tab_conteudo{width:100%}
+
+.tab_conteudo td{padding:0px 5px 0px 5px}
